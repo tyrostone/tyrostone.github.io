@@ -83,7 +83,7 @@ I implemented some hackery here, because the title of the book of the day had a 
 
 Also worth noting is that I added a "download" flag to the function, such that the comparison would be skipped, and the response would always return to download the book.
 
-Assuming there would be cases where I did, in fact, want to download the book, I needed a way to notify myself of the book. Ultimately, I settled on sending a notification via email. Upon making this decision, I saw that Gmail offers a [free SMTP server][gmail-smtp] that lets you senf email to anyone from anywhere using your Gmail email address. Implementing this was a little bit annoying, but luckily, someone else had already done something similar, and posted a gist on [their Github][go-smtp-example]. To use `smtp.gmail.com`, you must use SSL, which made the Go implementation more interesting:
+Assuming there would be cases where I did, in fact, want to download the book, I needed a way to notify myself of the book. Ultimately, I settled on sending a notification via email. Upon making this decision, I saw that Gmail offers a [free SMTP server][gmail-smtp] that lets you send email to anyone from anywhere using your Gmail email address. Implementing this was a little bit annoying, but luckily, someone else had already done something similar, and posted a gist on [their Github][go-smtp-example]. To use `smtp.gmail.com`, you must use SSL, which made the Go implementation more interesting:
 
 To work correctly, I needed to first create a TLS config:
 {% highlight go %}
