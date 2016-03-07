@@ -79,7 +79,7 @@ for download == false {
 }
 {% endhighlight %}
 
-I implemented some hackery here, because `strings.Fields()` the title of the book of the day had a colon in it, so I removed it before making comparisons. In a more robust scenario, I would want to check for and remove other punctuation as well (e.g. ",", "!", etc.). I'd probably want to break this out into it's own function.
+I implemented some hackery here, because the title of the book of the day had a colon in it, so I removed it before making comparisons. In a more robust scenario, I would want to check for and remove other punctuation as well (e.g. ",", "!", etc.). I'd probably want to break this out into it's own function.
 
 Also worth noting is that I added a "download" flag to the function, such that the comparison would be skipped, and the response would always return to download the book.
 
