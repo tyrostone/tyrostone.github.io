@@ -141,10 +141,15 @@ flag.Parse()
 
 Lastly, an external dependency I had to configure was my Gmail account. In order for the STMP server to send mail from my Gmail, I had to turn "Allow less secure apps" ON in my privacy settings. To do this:
 1. Click on the Gmail avatar picture in the upper-right corner of Gmail
+
 2. Click the blue "My Account" button
+
 3. Click the ">" to the right of "Sign-in and Security"
+
 4. Click "Device activity & notifications" under "Sign-in & Security" on the left-hand toolbar
+
 5. Scroll down to "Allow less secure apps"
+
 6. Slide the bar to the right to "ON"
 
 Which comes to the last decision: how to run the code itself. Fortunately, Go makes code incredibly easy to package and run, as it can be easily built into a binary. So, how to run the binary?
