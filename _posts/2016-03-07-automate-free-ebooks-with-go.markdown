@@ -99,7 +99,7 @@ conn, err := tls.Dial("tcp", fullAddr, tlsconfig)
 checkError(err)
 {% endhighlight %}
 
-Using that connection, I then needed to create a new STMP client (using that TLS connection)...
+Using that connection, I then needed to create a new SMTP client (using that TLS connection)...
 {% highlight go %}
 c, err := smtp.NewClient(conn, host)
 checkError(err)
