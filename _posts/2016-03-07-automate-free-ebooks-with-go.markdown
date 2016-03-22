@@ -139,7 +139,7 @@ flag.StringVar(&password, "password", "", "for gmail")
 flag.Parse()
 {% endhighlight %}
 
-Lastly, an external dependency I had to configure was my Gmail account. In order for the STMP server to send mail from my Gmail, I had to turn "Allow less secure apps" ON in my privacy settings. To do this:
+Lastly, an external dependency I had to configure was my Gmail account. In order for the SMTP server to send mail from my Gmail, I had to turn "Allow less secure apps" ON in my privacy settings. To do this:
 1. Click on the Gmail avatar picture in the upper-right corner of Gmail
 
 2. Click the blue "My Account" button
