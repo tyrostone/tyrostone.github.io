@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lessons Learned From Seven Courses in Seven Days"
-date:   2016-03-17 22:11:22 -0500
+date:   2019-03-17 22:11:22 -0500
 categories: linkedin-learning lynda.com always-be-learning
 ---
 Last Friday, I knew I was coming down with a cold. I could barely make my way through the day, and by my company's weekly 4pm meeting, I was a bit of a zombie, my eyes watering and nose running constantly.
