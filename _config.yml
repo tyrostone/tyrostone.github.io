@@ -18,3 +18,5 @@ github_username:  tyrostone
 
 # Build settings
 markdown: kramdown
+include:
+  - "/assets"
