@@ -4,27 +4,27 @@ title:  "The DevOps Career Growth Survey Results Are Here!"
 date:   2019-04-01 18:03:22 -0500
 categories: devops always-be-learning
 ---
-# The DevOps Career Growth Survey Results Are Here!
+# The Results
 
-As soon as I published the "DevOps Career Growth Survey" on reddit and Slack, I immediately got feedback from curious respondents who wanted the results. Well, over 450 people took the survey and the results are in!
+As soon as I published the [DevOps Career Growth Survey](https://forms.gle/hVUViaHSSaMzV6jXA) on reddit and Slack, I immediately got feedback from curious respondents who wanted the results. Well, over 450 people took the survey and the results are in!
 
-<img src="{{ site.baseurl }}/assets/images/survey_word_cloud.png">
+<img src="https://tyrostone.github.io/assets/images/survey_word_cloud.png">
 
 ## Key Takeaways
 
 DevOps Engineer is the most common job title of those who took the survey.
 
-<img src="{{ site.baseurl }}/assets/images/job_title.png">
+<img src="https://tyrostone.github.io/assets/images/job_title.png">
 
-Kubernetes is a big deal. Everyone wants to learn it. 
+Kubernetes is a big deal - nearly everyone wants to learn it. 
 
-<img src="{{ site.baseurl }}/assets/images/top_skills.png">
+<img src="https://tyrostone.github.io/assets/images/top_skills.png">
 
-People learn in many ways, most commonly "learning by doing" (25%) and taking online courses (25%). Many also stated they like learning from books (15%).
+Respondents learn in many ways, most commonly "learning by doing" (25%) and taking online courses (25%). Many also stated they like learning from books (15%).
 
-<img src="{{ site.baseurl }}/assets/images/top_learning_methods.png">
+<img src="https://tyrostone.github.io/assets/images/top_learning_methods.png">
 
-Those taking online courses are using a smal from a small number of online learning platforms, including:
+Those taking online courses are using a small number of online learning platforms including:
 
 - Pluralsight
 - Udemy
@@ -37,10 +37,10 @@ Ultimately, what can we make of this? If you want more details, read on.
 
 ## What are we learning?
 
-There are noticeable trends in what respondents want to learn. Tools that stand out way beyond the others. The survey results showed that, regardless of job title, the following skills are what people want to learn in 2019: 
+There are noticeable trends in what respondents want to learn. Tools that stand out way beyond the others. The survey results showed that, regardless of job title, the following skills are what respondents want to learn in 2019: 
 
 1. Kubernetes (this crushed every other option - a whopping 38% of respondents said they plan to learn Kubernetes this year, with almost 25% of respondents listing it first in their skills list)
-2. Go (27%%)
+2. Go (27%)
 3. Python (18%)
 4. AWS (16%)
 5. Terraform (13%)
@@ -57,9 +57,8 @@ But you might be asking yourself, "yeah okay, but who is more likely to want to 
 | DevOps Engineer             | Python, Ansible, Go |
 | Software Engineer/Developer | AWS, Terraform      |
 
-_Side note: I love how ambitious DevOps Engineers are, wanting to learn two programming languages in one year!_
 
-It's clear that the tool to learn in 2019 is Kubernetes. _Everyone_ wants to learn Kubernetes.
+It's clear that the tool to learn in 2019 is Kubernetes.
 
 That said, it's not just tools that respondents are interested in learning. They are also interested in concepts. The concepts that interest them the most are:
 
@@ -97,6 +96,6 @@ Ultimately, what this tells me is that there are a lot of voices echoing into th
 
 But these survey results are clear: Learn about continuous integration and continuous delivery (CI/CD). Learn a popular programming language like Python or Go. Learn how to use cloud providers like AWS, GCP, and Azure. And yes, learn Kubernetes.
 
-_What do you think? Why does everyone want to learn Kubernetes? Why are you learning what you're learning? Email me at fkdema@gmail.com or message me on Slack or Twitter with your thoughts._
+_What do you think? Why does everyone want to learn Kubernetes? Why are you learning what you're learning? [Email me](mailto:fkdema@gmail.com) or message me on Slack or Twitter with your thoughts._
 
 _Are you are interested in learning more about microservices? Check out my course, [DevOps Foundations: Microservices](https://www.linkedin.com/learning/devops-foundations-microservices) and I'll give you 3 months of LinkedIn Learning for free. Contact me and I’d be happy to give you a code - until they run out!_
