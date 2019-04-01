@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The DevOps Career Growth Survey Results Are Here!"
-date:   2016-04-01 18:03:22 -0500
+date:   2019-04-01 18:03:22 -0500
 categories: devops always-be-learning
 ---
 # The DevOps Career Growth Survey Results Are Here!
@@ -18,11 +18,11 @@ DevOps Engineer is the most common job title of those who took the survey.
 
 Kubernetes is a big deal. Everyone wants to learn it. 
 
-![Bar Chart of Top Skills](assets/top_skills.png)
+![Bar Chart of Top Skills](../assets/top_skills.png)
 
 People learn in many ways, most commonly "learning by doing" (25%) and taking online courses (25%). Many also stated they like learning from books (15%).
 
-![Bar Chart of Top Learning Methods](assets/top_learning_methods.png)
+![Bar Chart of Top Learning Methods](../assets/top_learning_methods.png)
 
 Those taking online courses are using a smal from a small number of online learning platforms, including:
 
