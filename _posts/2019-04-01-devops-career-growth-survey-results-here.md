@@ -8,21 +8,21 @@ categories: devops always-be-learning
 
 As soon as I published the "DevOps Career Growth Survey" on reddit and Slack, I immediately got feedback from curious respondents who wanted the results. Well, over 450 people took the survey and the results are in!
 
-![Survey Word Cloud](../assets/images/survey_word_cloud.png)
+<img src="{{ site.baseurl }}/assets/images/survey_word_cloud.png">
 
 ## Key Takeaways
 
 DevOps Engineer is the most common job title of those who took the survey.
 
-![Pie Chart of Job Titles](../assets/images/job_title.png)
+<img src="{{ site.baseurl }}/assets/images/job_title.png">
 
 Kubernetes is a big deal. Everyone wants to learn it. 
 
-![Bar Chart of Top Skills](../assets/images/top_skills.png)
+<img src="{{ site.baseurl }}/assets/images/top_skills.png">
 
 People learn in many ways, most commonly "learning by doing" (25%) and taking online courses (25%). Many also stated they like learning from books (15%).
 
-![Bar Chart of Top Learning Methods](../assets/images/top_learning_methods.png)
+<img src="{{ site.baseurl }}/assets/images/top_learning_methods.png">
 
 Those taking online courses are using a smal from a small number of online learning platforms, including:
 
